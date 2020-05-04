@@ -1,5 +1,11 @@
 # bhawan-bin
 
+v2.0.5
+Local server supported
+Manual Pin Set
+https support for OTA
+MDNS for local server(Android doesn't support)
+
 v2.0.4
 Code optimised
 
